@@ -1,68 +1,36 @@
-<h1 align="center">Hey, I'm Joshua Betesh 👋</h1>h1>
+# Joshua Betesh
 
-<p align="center">
-  <strong>BDR & Sales Development · Miami, FL 🌴</strong>strong><br/>
-    Partner-led growth | Co-sell | SaaS ecosystems | Former founder turned tech sales
-</p>p>
+**Partnerships and sales development professional who builds practical AI and data tools.** Miami, FL
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joshua-betesh-79bb38332">
-        <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Betesh-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>a>
-    <a href="mailto:joshuabetesh@gmail.com">
-          <img src="https://img.shields.io/badge/Email-joshuabetesh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-    </a>a>
-    <img src="https://img.shields.io/badge/Location-Miami%2C%20FL-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Miami, FL"/>
-</p>p>
+## About
 
----
+I've spent my career on the partner side of the table: sourcing vendors and partners, rolling out software from the buyer's side, and building referral networks. Today I lead partnerships at Apex Medical Associates, where I built a network of 25+ physician referral partners through cold outreach and in-person visits.
 
-## About Me
+I use Claude and ChatGPT every day for prospecting and account research, and I build small Python and AI tools to make that work faster and more consistent. This GitHub is where those tools live.
 
-I spent a decade **as the buyer** — evaluating, championing, and implementing enterprise SaaS platforms across healthcare, real estate, and construction. AppFolio, Yardi, EHR/EMR systems — I was the decision-maker that BDRs were trying to reach.
+I'm interested in AI sales, BDR/SDR, and partnerships roles at AI and SaaS companies, especially in HealthTech and PropTech.
 
-Then I founded **Apex Medical Associates** and raised $500K to build it from zero.
+## What I build
 
-Now I'm on the other side of the table, bringing that buyer perspective into sales. I build automation scripts and tools to sharpen my outreach, research prospects faster, and work smarter — which is what this GitHub is about.
+| Project | What it does |
+|---|---|
+| [LotScout](https://github.com/joshuabetesh/lotscout) | Python/Postgres site-scoring platform for NYC land, with a natural-language search built on Anthropic Claude tool-use. Used by a Brooklyn land broker. Showcase write-up; source is private. |
+| [saas-partner-intel](https://github.com/joshuabetesh/saas-partner-intel) | Python CLI that ranks target accounts by overlap with a curated map of SaaS partner ecosystems, to prioritize co-sell outreach. |
+| [bdr-outreach-toolkit](https://github.com/joshuabetesh/bdr-outreach-toolkit) | Python script that turns a prospect CSV into industry-tailored cold email drafts for review before sending. |
+| [pipeline-analytics](https://github.com/joshuabetesh/pipeline-analytics) | Python CLI that summarizes a CRM pipeline export: deals by stage, win rate, average deal size, and top open opportunities. |
+| [real-estate-prompt-pack](https://github.com/joshuabetesh/real-estate-prompt-pack) | Landing page for a 65+ prompt ChatGPT/Claude guide for real estate agents, from listings and outreach to due diligence. |
+| [owners-rep-playbook](https://github.com/joshuabetesh/owners-rep-playbook) | Landing page for a 55-prompt ChatGPT/Claude guide that helps homeowners manage a major renovation phase by phase. |
 
----
+## Background
 
-## What I Build Here
+- **Director, Partnerships & Integration**, Apex Medical Associates (2021 to present). Built a network of 25+ physician referral partners through cold outreach and in-person visits.
+- **Independent Partnerships & Integration Consultant** (2018 to 2020)
+- **Project Management, NYC real estate development** (2013 to 2020). E&M Development, Evenhar Development, and H Holding Group. Sourced vendors and partners and led buyer-side software rollouts, including a Yardi go-live and an AppFolio implementation.
+- **BA, Business Administration**, Touro
 
-| Repo | What it does |
-|------|-------------|
-| [bdr-outreach-toolkit](https://github.com/joshuabetesh/bdr-outreach-toolkit) | Python scripts for personalizing cold outreach at scale |
-| [saas-partner-intel](https://github.com/joshuabetesh/saas-partner-intel) | Tools for mapping SaaS partner ecosystems & co-sell overlaps |
-| [pipeline-analytics](https://github.com/joshuabetesh/pipeline-analytics) | Sales pipeline CSV analysis & visualization scripts |
+**Tools:** Claude and ChatGPT (daily, for prospecting and research), Python, Postgres
 
----
+## Contact
 
-## My Stack
-
-```
-Languages:   Python · JavaScript · Bash
-Tools:       pandas · requests · BeautifulSoup · matplotlib
-Interests:   Sales automation · CRM integrations · Partner ecosystems
-```
-
----
-
-## Currently
-
-- 🎯 Targeting BDR roles at co-sell & partner ecosystem companies (Crossbeam, AppDirect, PartnerStack)
-- - 🌱 Learning Python for sales automation and data analysis
-  - - 🤝 Open to connecting with sales engineers, BDRs, and SaaS ecosystem folks
-    - - 📍 Based in Miami, FL — remote only
-     
-      - ---
-
-      ## Fun Fact
-
-      I pitched a business model in an industry I knew nothing about (medicine) and raised half a million dollars. Turns out that's basically what BDR work is — cold outreach, objection handling, and closing. The muscle was already there.
-
-      ---
-
-      <p align="center">
-        <i>"The best salespeople have been the buyer."</i>i>
-      </p>p></i>
-  </strong>
+- Email: [joshuabetesh@gmail.com](mailto:joshuabetesh@gmail.com)
+- LinkedIn: [linkedin.com/in/joshua-betesh-b86770176](https://www.linkedin.com/in/joshua-betesh-b86770176)
